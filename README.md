@@ -1,4 +1,4 @@
-#**Supermarket Sales Data Analysis**
+######**Supermarket Sales Data Analysis**
 
 This project focuses on analyzing supermarket sales data to uncover valuable insights and optimize sales strategies. The following steps were performed:
 
