@@ -1,4 +1,4 @@
-Supermarket Sales Data Analysis
+#**Supermarket Sales Data Analysis**
 
 This project focuses on analyzing supermarket sales data to uncover valuable insights and optimize sales strategies. The following steps were performed:
 
@@ -11,7 +11,7 @@ This project focuses on analyzing supermarket sales data to uncover valuable ins
 •	Interactive Power BI Dashboard: An interactive Power BI dashboard was developed to visualize and present the analyzed data. DAX was utilized to calculate key 
   metrics, enabling a comprehensive view of the sales performance.
   
-•	Key Insights
+**##Key Insights**
 
 •	Based on the analysis, the following key insights were derived:
 
@@ -19,12 +19,12 @@ This project focuses on analyzing supermarket sales data to uncover valuable ins
 
 •	Weekday sales outperformed weekends.
 
-•	Solution
+##**Solution**
 
 •	To optimize sales and mitigate the effect of tax percentage on product sales, the proposed solution is to offer discounts and promotions across cities. By 
   implementing this strategy, supermarkets can potentially attract more customers and boost sales despite the impact of taxes.
 
-Technologies Used:
+##**Technologies Used:**
 
 •	Excel: Utilized for data cleaning and initial data import.
 
